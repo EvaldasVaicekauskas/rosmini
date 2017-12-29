@@ -68,7 +68,7 @@ int main(int argc, char **argv)
       std::cout << '\n' << "You entered: " << x << '\n';
 
           switch(x)
-          //switch matches the x to a case, 1 through 5 in this example and executes a statement which is cout for now
+            //switch matches the x to a case, 1 through 5 in this example and executes a statement which is cout for now
           {
           case 1:
           std::cout << "" << '\n';
